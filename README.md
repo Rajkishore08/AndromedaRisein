@@ -45,7 +45,7 @@ LendLink envisions a future where decentralized finance is accessible to everyon
 
 Software Development Plan
 
-#Define ADO Functions:
+# Define ADO Functions:
 
 Minting: ADOs to mint tokens/NFTs for loans.
 Lending Logic: Functions for collateral, interest calculations, and repayments.
