@@ -85,7 +85,8 @@ Installing and Setting Up LendLink
 
 -> Clone the Repository:
 
-git clone https://github.com/your-username/LendLink.git
+git clone https://github.com/Rajkishore08/AndromedaRisein
+
 cd LendLink
 
 # Install Dependencies:
