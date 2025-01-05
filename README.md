@@ -73,31 +73,28 @@ Gather user feedback for improvements.
 Launch on Andromeda Mainnet with live tracking and lending features.
 GitHub README for Setup
 Installing and Setting Up LendLink
-Clone the Repository:
 
-bash
-Copy code
+# Clone the Repository:
+
 git clone https://github.com/your-username/LendLink.git
 cd LendLink
-Install Dependencies:
 
-bash
-Copy code
+# Install Dependencies:
+
 npm install
-Set Up Environment Variables:
+
+# Set Up Environment Variables:
 Create a .env file and add the following variables:
 
-env
-Copy code
+
 REACT_APP_API_URL=https://api.testnet.andromedaprotocol.io
 REACT_APP_WALLET_ADDRESS=your-wallet-address
-Deploy Smart Contracts:
+
+# Deploy Smart Contracts:
 Deploy lending and portfolio contracts to the Andromeda testnet. Update their addresses in src/config.js.
 
 # Run the Application:
 
-bash
-Copy code
 npm start
 Access the App:
 Open http://localhost:3000 in your browser to view LendLink.
