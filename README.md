@@ -1,11 +1,10 @@
 # AndromedaRisein
 
 
-LendLink README
-Project Title
+# Project Title
 LendLink: A Decentralized DeFi Portfolio Tracker & Peer-to-Peer Lending Marketplace
 
-Project Description
+# Project Description
 LendLink is a decentralized application (dApp) built on the Andromeda Protocol. It empowers users to track DeFi portfolios while participating in a peer-to-peer (P2P) lending marketplace. The platform simplifies asset management and facilitates decentralized borrowing and lending. LendLink ensures transparency, security, and efficiency for DeFi enthusiasts and fosters financial inclusion.
 
 Key Features
